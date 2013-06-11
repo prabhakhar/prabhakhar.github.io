@@ -9,7 +9,7 @@ SUMMARY OF QUALIFICATIONS
   * Extensive programming experience in Java, C/C++, JavaScript
   * Strong leadership and management skills, with experience in
     leading international teams on large projects
-  * Seasoned Software Engineer with 9 years of large systems software
+  * Seasoned Software Engineer with 10+ years of large systems software
     design and development experience
   * Exceptional problem-solving expertise, analytical skills, and
     enthusiasm for tackling diverse technical challenges
@@ -41,35 +41,35 @@ PROFESSIONAL EXPERIENCE
   Currently helping ebay to built its private cloud with openstack.
 
   Lead Contributor to ql.io  - http://ql.io
-   ql.io an open-source platform to make HTTP consumption super simple and
-   performant at scale.
+  ql.io an open-source platform to make HTTP consumption super simple and
+  performant at scale.
 
-   Administrator for many npm packages like cluster2, ql.io-engine,
-   ql.io-compiler etc., in npmjs.org
+  Administrator for many npm packages like cluster2, ql.io-engine,
+  ql.io-compiler etc., in npmjs.org
 
-   Lead engineer for operationalizing Jersey (JSR 311) within eBay.
-   Implemented JAXRS 2.0 features like 'hypermedia constraints',
-   client side asynchronous APIs, client auto-redirection, centralized logging,
-   monitoring etc.,
+  Lead engineer for operationalizing Jersey (JSR 311) within eBay.
+  Implemented JAXRS 2.0 features like 'hypermedia constraints',
+  client side asynchronous APIs, client auto-redirection, centralized logging,
+  monitoring etc.,
 
-   Developed key components in SOA Framework, ebay's in-house asynchronous,
-   high performant framework to ease the development of web services within
-   all eBay business domains. The frameowork provides Location Transparency,
-   Protocol and Data-Format independence, Versioning, Monitoring, and
-   other features required for RPC, like request-response pipelines etc.,
+  Developed key components in SOA Framework, ebay's in-house asynchronous,
+  high performant framework to ease the development of web services within
+  all eBay business domains. The frameowork provides Location Transparency,
+  Protocol and Data-Format independence, Versioning, Monitoring, and
+  other features required for RPC, like request-response pipelines etc.,
 
-   Project Lead for open sourcing the above mentioned SOA Framework,
-   code-named Turmeric. https://www.ebayopensource.org/index.php/Turmeric/Team
+  Project Lead for open sourcing the above mentioned SOA Framework,
+  code-named Turmeric. https://www.ebayopensource.org/index.php/Turmeric/Team
 
-   Notable contributions :
-    - Support for Protobuf message format
-    - Benchmarked the SOA Framework and identified the bottle-necks
-    - Service Configuration through API
-    - Support business teams to effectively use the framework
+  Notable contributions :
+  - Support for Protobuf message format
+  - Benchmarked the SOA Framework and identified the bottle-necks
+  - Service Configuration through API
+  - Support business teams to effectively use the framework
 
-   Developed a database-based Messaging framework called 'Business Events Streams'
-    a high-performance infrastructure for integration eBay system components
-    using asynchronous, persistent, transactional business event streams.
+  Developed a database-based Messaging framework called 'Business Events Streams'
+  a high-performance infrastructure for integration eBay system components
+  using asynchronous, persistent, transactional business event streams.
 
 2007-2008: Technical consultant at American Power Conversion.
   Programmer Analyst at DataMethods
