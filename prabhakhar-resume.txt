@@ -21,9 +21,9 @@ SUMMARY OF QUALIFICATIONS
 
 COMPUTER SKILLS
 
-  Programming: Java, C/C++, Scala, Python and JavaScript.
-  Platforms: Linux, OS X, Windows.
-  Others: Node.js, Puppet, Java Internals, git and UNIX Internals.
+  Programming: Java, C/C++, JavaScript, Scala, and Python
+  Platforms: Linux, OS X, Windows
+  Others: Node.js, Kafka, Puppet, Salt, git and UNIX Internals
 
 EDUCATION
 
@@ -54,7 +54,7 @@ PROFESSIONAL EXPERIENCE
 
   Developed key components in SOA Framework, ebay's in-house asynchronous,
   high performant framework to ease the development of web services within
-  all eBay business domains. The frameowork provides Location Transparency,
+  all eBay business domains. The framework provides Location Transparency,
   Protocol and Data-Format independence, Versioning, Monitoring, and
   other features required for RPC, like request-response pipelines etc.,
 
@@ -62,7 +62,7 @@ PROFESSIONAL EXPERIENCE
   code-named Turmeric. https://www.ebayopensource.org/index.php/Turmeric/Team
 
   Notable contributions :
-  - Support for Protobuf message format
+  - Support for Protocol buffers message format
   - Benchmarked the SOA Framework and identified the bottle-necks
   - Service Configuration through API
   - Support business teams to effectively use the framework
@@ -77,7 +77,7 @@ PROFESSIONAL EXPERIENCE
   Designed and implemented a customized scalable solution for APC Warehouse
   systems based on Oracle WMS product.
 
-2003-2007: Senior Member Technical Staff, ORACLE India Pvt Ltd., Bangalore.
+2003-2007: Senior Member Technical Staff, ORACLE India Pvt. Ltd., Bangalore.
 
   I was part of the Directory Services team of Oracle Fusion Middleware.
   Worked on the integration of LDAP server and LDAP tools with Oracle AS11g.
