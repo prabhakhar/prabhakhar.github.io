@@ -99,4 +99,4 @@ PROFESSIONAL EXPERIENCE
     across a wide range of databases such as Oracle, SQL Server, IBM DB2, MySQL,
     and PostgreSQL. Technology: C++, Java and SQL.
 
-                                           Website: http://prabhakhar.github.io/
+                                           Website: https://prabhakhar.github.io/
